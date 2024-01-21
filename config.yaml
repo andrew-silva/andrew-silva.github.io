@@ -1,5 +1,5 @@
 languageCode: "en-us"
-baseUrl: "https://andrew-silva.github.io/"
+baseUrl: "/"
 title: "Learning Machine Learning"
 theme: "anubis"
 paginate: 10
