@@ -6,14 +6,30 @@
     <description>Recent content in Posts on Andrew Writing Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jan 2024 13:19:32 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 21:27:20 -0400</lastBuildDate>
     <atom:link href="https://andrew-silva.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sample Post</title>
-      <link>https://andrew-silva.github.io/posts/sample-post/</link>
-      <pubDate>Sun, 21 Jan 2024 13:19:32 -0500</pubDate>
-      <guid>https://andrew-silva.github.io/posts/sample-post/</guid>
-      <description>Sample first post With some sample writing in here.</description>
+      <title>Reading: Scaling Monosemanticity -- Extracting Interpretable Features from Claude 3 Sonnet</title>
+      <link>https://andrew-silva.github.io/posts/scaling_monosemanticity_extracting_interpretable_features/</link>
+      <pubDate>Wed, 22 May 2024 21:27:20 -0400</pubDate>
+      <guid>https://andrew-silva.github.io/posts/scaling_monosemanticity_extracting_interpretable_features/</guid>
+      <description>In a recent paper from Anthropic, the authors show that they can discover single features that correlate to concepts inside of a large language model (LLM). Specifically, the authors look at learning an autoencoder with an L1 norm penalty (to encourage sparsity) over the activations for a middle-layer in the network model, which learns to embed the activations of the LLM into a sparse feature space.
+This sparsity means that they can take thousands or millions of dense feature activations and reduce all that noise down to just a few hundred high-magnitude features (on average, each token is represented by 300 independent features).</description>
+    </item>
+    <item>
+      <title>Reading: Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model (_MuZero_ Paper)</title>
+      <link>https://andrew-silva.github.io/posts/muzero/</link>
+      <pubDate>Wed, 23 Dec 2020 21:36:52 -0400</pubDate>
+      <guid>https://andrew-silva.github.io/posts/muzero/</guid>
+      <description>DeepMind’s Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model was officially published today in Nature, and is a reasonably short read covering a cool direction for future reinforcement learning (RL) research.
+What is the paper trying to do? Following the incredible successes of AlphaGo and AlphaZero, this work introduces MuZero, which permits the extension of AlphaZero-like learning and performance to a new set of RL domains.</description>
+    </item>
+    <item>
+      <title>Interactive_intelligence</title>
+      <link>https://andrew-silva.github.io/posts/interactive_intelligence/</link>
+      <pubDate>Sun, 20 Dec 2020 21:36:45 -0400</pubDate>
+      <guid>https://andrew-silva.github.io/posts/interactive_intelligence/</guid>
+      <description>Google DeepMind recently put a new 96 page paper on arXiv titled Imitating Interactive Intelligence. The paper actually has a few really cool things to contribute. Unfortunately, owing to its very intimidating length, it’s not easy to actually gain these insights. DeepMind have actually put up their own blog post on the work, but I didn’t really get a sense for what happened just by reading that post. They also released three videos showing what happened in the project (overview, training timelapse, and a demo).</description>
     </item>
   </channel>
 </rss>
