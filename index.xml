@@ -6,8 +6,16 @@
     <description>Recent content on Andrew Writing Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 May 2024 21:27:20 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 14:48:00 -0500</lastBuildDate>
     <atom:link href="https://andrew-silva.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investigating Relative Life Expectancy in the United States</title>
+      <link>https://andrew-silva.github.io/posts/life_expectancy_visualizations/</link>
+      <pubDate>Fri, 17 Jan 2025 14:48:00 -0500</pubDate>
+      <guid>https://andrew-silva.github.io/posts/life_expectancy_visualizations/</guid>
+      <description>I recently came across a compelling visualization of American healthcare costs vs. life expectancy, showing that the US is considerably outpacing other wealthy nations when it comes to spending on healthcare, but lagging behind when it comes to actually living longer.
+This graphic paints a grim picture on two fronts. For one, wow US healthcare is expensive. But more importantly: why aren&amp;rsquo;t we getting anything for it? Why is American life expectancy so far behind other developed nations?</description>
+    </item>
     <item>
       <title>Reading: Scaling Monosemanticity -- Extracting Interpretable Features from Claude 3 Sonnet</title>
       <link>https://andrew-silva.github.io/posts/scaling_monosemanticity_extracting_interpretable_features/</link>
@@ -17,7 +25,7 @@
 This sparsity means that they can take thousands or millions of dense feature activations and reduce all that noise down to just a few hundred high-magnitude features (on average, each token is represented by 300 independent features).</description>
     </item>
     <item>
-      <title>Reading: Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model (_MuZero_ Paper)</title>
+      <title>Reading: Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model (MuZero Paper)</title>
       <link>https://andrew-silva.github.io/posts/muzero/</link>
       <pubDate>Wed, 23 Dec 2020 21:36:52 -0400</pubDate>
       <guid>https://andrew-silva.github.io/posts/muzero/</guid>
@@ -25,7 +33,7 @@ This sparsity means that they can take thousands or millions of dense feature ac
 What is the paper trying to do? Following the incredible successes of AlphaGo and AlphaZero, this work introduces MuZero, which permits the extension of AlphaZero-like learning and performance to a new set of RL domains.</description>
     </item>
     <item>
-      <title>Interactive_intelligence</title>
+      <title>Interactive Intelligence</title>
       <link>https://andrew-silva.github.io/posts/interactive_intelligence/</link>
       <pubDate>Sun, 20 Dec 2020 21:36:45 -0400</pubDate>
       <guid>https://andrew-silva.github.io/posts/interactive_intelligence/</guid>
