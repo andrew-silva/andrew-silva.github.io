@@ -6,8 +6,16 @@
     <description>Recent content on Andrew Writing Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jan 2025 14:48:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 00:51:47 -0500</lastBuildDate>
     <atom:link href="https://andrew-silva.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning a Personalized arXiv Feed</title>
+      <link>https://andrew-silva.github.io/posts/personalized_paper_recommender/</link>
+      <pubDate>Mon, 17 Feb 2025 00:51:47 -0500</pubDate>
+      <guid>https://andrew-silva.github.io/posts/personalized_paper_recommender/</guid>
+      <description>Keeping up with the latest on arXiv is hard ask, and requires somehow sifting through hundreds of papers every day. While I spent a long time relying on my network to surface important papers for my particular interests, this usually biases me towards a subset of authors or labs that are particularly adept at becoming popular on social media.
+ArXiv-Sanity is a great solution to this problem, allowing you to find recommended papers based on TF-IDF vectors for papers.</description>
+    </item>
     <item>
       <title>Investigating Relative Life Expectancy in the United States</title>
       <link>https://andrew-silva.github.io/posts/life_expectancy_visualizations/</link>
