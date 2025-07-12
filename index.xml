@@ -6,8 +6,16 @@
     <description>Recent content on Andrew Writing Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Feb 2025 00:51:47 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 16:06:02 -0400</lastBuildDate>
     <atom:link href="https://andrew-silva.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading: Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward</title>
+      <link>https://andrew-silva.github.io/posts/deepmind_curio/</link>
+      <pubDate>Fri, 11 Jul 2025 16:06:02 -0400</pubDate>
+      <guid>https://andrew-silva.github.io/posts/deepmind_curio/</guid>
+      <description>I recently read Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward and found it an interesting read, so I figured I&amp;rsquo;d write a quick summary and some thoughts on the work.
+Motivation We want to personalize LLMs in situ and without assuming access to labeled preference datasets for users. If we treat the user as a world that the LLM must explore, then a curiosity or intrinsic exploration reward should help us to discover the user&amp;rsquo;s innate preferences more quickly and effectively.</description>
+    </item>
     <item>
       <title>Learning a Personalized arXiv Feed</title>
       <link>https://andrew-silva.github.io/posts/personalized_paper_recommender/</link>
