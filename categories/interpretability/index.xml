@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interpretability on Andrew Silva</title>
+    <link>https://andrew-silva.github.io/categories/interpretability/</link>
+    <description>Recent content in Interpretability on Andrew Silva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Dec 2020 03:58:16 +0000</lastBuildDate>
+    <atom:link href="https://andrew-silva.github.io/categories/interpretability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Differentiable Decision Trees for Reinforcement Learning: Q-Learning or Policy Gradient?</title>
+      <link>https://andrew-silva.github.io/posts/learning-differentiable-decision-trees-for-reinforcement-learning/</link>
+      <pubDate>Mon, 21 Dec 2020 03:58:16 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/learning-differentiable-decision-trees-for-reinforcement-learning/</guid>
+      <description>In conjunction with an earlier post on the use of Differentiable Decision Trees (DDTs) for interpretable reinforcement learning, this post will cover my recent AISTATS paper Optimization Methods for Interpretable Differentiable Decision Trees in Reinforcement Learning. In my earlier post, I laid out some reasons that we might want to use DDTs for reinforcement learning: they afford discretization for interpretable plans, they allow for warm-starting and human initialization, and they are surprisingly robust to hyperparameter selection (things like learning rates, number of layers, and so on).</description>
+    </item>
+    <item>
+      <title>Interpretable Machine Learning: Neural Networks and Differentiable Decision Trees</title>
+      <link>https://andrew-silva.github.io/posts/interpretable-machine-learning/</link>
+      <pubDate>Tue, 10 Mar 2020 20:35:58 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/interpretable-machine-learning/</guid>
+      <description>A brief foreword: This entire post is a high-level summary of the motivations and contributions of my paper which was recently accepted to AISTATS 2020! For some math on why Q-Learning is less stable than policy gradients for differentiable decision trees, a full list of my references/sources, and more thorough comparisons, etc. check out the full paper: Optimization Methods for Interpretable Differentiable Decision Trees in Reinforcement Learning.
+Why aren’t normal neural networks interpretable?</description>
+    </item>
+    <item>
+      <title>Interpretable Machine Learning: What is Interpretability?</title>
+      <link>https://andrew-silva.github.io/posts/what-is-interpretability-in-machine-learning/</link>
+      <pubDate>Mon, 20 Jan 2020 22:05:05 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/what-is-interpretability-in-machine-learning/</guid>
+      <description>In my last post, I wrote a bit about why we want interpretability and what that means to end-users. In this post, I’ll explore a bit about what that means to practitioners and researchers, and two main ways to accomplish the goal of understanding our machine learning systems.
+What does interpretability mean? It turns out that rigorously defining “interpretability” is somewhat challenging. People often have one of two key areas in mind when they talk about interpretability in machine learning.</description>
+    </item>
+    <item>
+      <title>Interpretable Machine Learning: Why?</title>
+      <link>https://andrew-silva.github.io/posts/why-should-ml-be-interpretable/</link>
+      <pubDate>Wed, 08 Jan 2020 16:01:59 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/why-should-ml-be-interpretable/</guid>
+      <description>Why should machine learning be interpretable? Machine learning is being used everywhere, and intelligent systems are in just about every corner of our daily lives. Unfortunately, even in the best case, machine learning is only as good as the data that goes in and the data that goes in has a tendency to be biased, unfair, or skewed to the wrong goal. When we ask how a system has arrived at an answer, we don’t want to be left with some hand-wavy black-box answer.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Andrew Writing Things</title>
+    <title>Categories on Andrew Silva</title>
     <link>https://andrew-silva.github.io/categories/</link>
-    <description>Recent content in Categories on Andrew Writing Things</description>
+    <description>Recent content in Categories on Andrew Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 16 Sep 2022 14:26:28 +0000</lastBuildDate>
     <atom:link href="https://andrew-silva.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PhD Milestones</title>
+      <link>https://andrew-silva.github.io/categories/phd-milestones/</link>
+      <pubDate>Fri, 16 Sep 2022 14:26:28 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/categories/phd-milestones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interpretability</title>
+      <link>https://andrew-silva.github.io/categories/interpretability/</link>
+      <pubDate>Mon, 21 Dec 2020 03:58:16 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/categories/interpretability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Side Projects</title>
+      <link>https://andrew-silva.github.io/categories/side-projects/</link>
+      <pubDate>Thu, 12 Dec 2019 00:49:34 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/categories/side-projects/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

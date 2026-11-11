@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning on Andrew Silva</title>
+    <link>https://andrew-silva.github.io/tags/machine-learning/</link>
+    <description>Recent content in machine learning on Andrew Silva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Jan 2020 22:05:05 +0000</lastBuildDate>
+    <atom:link href="https://andrew-silva.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interpretable Machine Learning: What is Interpretability?</title>
+      <link>https://andrew-silva.github.io/posts/what-is-interpretability-in-machine-learning/</link>
+      <pubDate>Mon, 20 Jan 2020 22:05:05 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/what-is-interpretability-in-machine-learning/</guid>
+      <description>In my last post, I wrote a bit about why we want interpretability and what that means to end-users. In this post, I’ll explore a bit about what that means to practitioners and researchers, and two main ways to accomplish the goal of understanding our machine learning systems.
+What does interpretability mean? It turns out that rigorously defining “interpretability” is somewhat challenging. People often have one of two key areas in mind when they talk about interpretability in machine learning.</description>
+    </item>
+    <item>
+      <title>Interpretable Machine Learning: Why?</title>
+      <link>https://andrew-silva.github.io/posts/why-should-ml-be-interpretable/</link>
+      <pubDate>Wed, 08 Jan 2020 16:01:59 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/why-should-ml-be-interpretable/</guid>
+      <description>Why should machine learning be interpretable? Machine learning is being used everywhere, and intelligent systems are in just about every corner of our daily lives. Unfortunately, even in the best case, machine learning is only as good as the data that goes in and the data that goes in has a tendency to be biased, unfair, or skewed to the wrong goal. When we ask how a system has arrived at an answer, we don’t want to be left with some hand-wavy black-box answer.</description>
+    </item>
+  </channel>
+</rss>

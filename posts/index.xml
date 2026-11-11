@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Andrew Writing Things</title>
+    <title>Posts on Andrew Silva</title>
     <link>https://andrew-silva.github.io/posts/</link>
-    <description>Recent content in Posts on Andrew Writing Things</description>
+    <description>Recent content in Posts on Andrew Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 11 Jul 2025 16:06:02 -0400</lastBuildDate>
@@ -41,6 +41,74 @@ This graphic paints a grim picture on two fronts. For one, wow US healthcare is 
 This sparsity means that they can take thousands or millions of dense feature activations and reduce all that noise down to just a few hundred high-magnitude features (on average, each token is represented by 300 independent features).</description>
     </item>
     <item>
+      <title>Finding Your Thesis Statement &amp; Story</title>
+      <link>https://andrew-silva.github.io/posts/finding-your-thesis-statement/</link>
+      <pubDate>Fri, 16 Sep 2022 14:26:28 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/finding-your-thesis-statement/</guid>
+      <description>After a few years in a PhD program, working on whatever research project your advisor had funding for, or whatever project seemed interesting or fun at the time, it can be daunting to find a unified story or thesis statement that accurately, concisely, and interestingly summarizes your work. In this post, I will describe how I was able to find a cohesive story that unified the disparate strands of work I’d completed, and helped me focus my thesis proposal into an interesting final project.</description>
+    </item>
+    <item>
+      <title>Preparing Your Thesis Proposal Presentation</title>
+      <link>https://andrew-silva.github.io/posts/preparing-your-thesis-proposal-presentation/</link>
+      <pubDate>Fri, 16 Sep 2022 13:55:33 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/preparing-your-thesis-proposal-presentation/</guid>
+      <description>Your oral defense (your thesis proposal presentation) is where you get to convince your committee (and a wider, public audience) that you deserve a PhD. You need to show that you’ve done cool work, you’re a smart and capable researcher, and you have thought of an interesting final project that will bring home a strong body of work. No pressure!
+In general, a thesis proposal presentation will look something like this:</description>
+    </item>
+    <item>
+      <title>Responding When You Don&#39;t Know Something!</title>
+      <link>https://andrew-silva.github.io/posts/responding-when-you-dont-know-something/</link>
+      <pubDate>Fri, 16 Sep 2022 13:35:47 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/responding-when-you-dont-know-something/</guid>
+      <description>Acknowledge When You Don’t Know Something A big part of being a good researcher is recognizing when you don’t know the answer to something, and a likewise a big part of your PhD milestones (quals, proposal, and defense) will involve testing this. I’ve spoken with several professors and other students about this, and it is considered a universally important subject to these PhD milestones— your committee will test whether or not you know what you don’t know, and have the strength to admit that.</description>
+    </item>
+    <item>
+      <title>The Thesis Proposal Process at Georgia Tech</title>
+      <link>https://andrew-silva.github.io/posts/the-thesis-proposal-process-at-georgia-tech/</link>
+      <pubDate>Fri, 16 Sep 2022 13:35:19 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/the-thesis-proposal-process-at-georgia-tech/</guid>
+      <description>I recently completed my thesis proposal at Georgia Tech, and the process included several questions that I did not feel were adequately documented anywhere. With this post, I’m hoping to provide a straightforward timeline/guide for the thesis proposal process at Tech for future students. Admittedly, this post ended up much longer than I expected it to be, so maybe treat it more as a reference material and come back to each section as you get to that stage.</description>
+    </item>
+    <item>
+      <title>Choosing Your Thesis Committee</title>
+      <link>https://andrew-silva.github.io/posts/choosing-your-thesis-committee/</link>
+      <pubDate>Fri, 16 Sep 2022 13:35:01 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/choosing-your-thesis-committee/</guid>
+      <description>Your committee ultimately decides whether or not you pass your proposal and your defense, so you want to choose them carefully!
+The rules from the CS Handbook state that:
+“Your advisor is the chair… Your committee should be formed of at least five people. At least one faculty member must be from outside CoC (from another unit at Tech or an outsider, and should have a Ph.D.), but the majority must have some CoC faculty appointment.</description>
+    </item>
+    <item>
+      <title>Writing Your Proposal Document</title>
+      <link>https://andrew-silva.github.io/posts/writing-your-proposal-document/</link>
+      <pubDate>Fri, 16 Sep 2022 13:34:41 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/writing-your-proposal-document/</guid>
+      <description>When to Write Your Proposal Document I suggest starting as early as possible! As soon as you know you are planning to propose soon, start the document. It will take a couple of weeks to finish, maybe more, and your committee should ideally have ample time to read and review it before your proposal. As indicated above, I gave my committee one month to review my document before my proposal. They do not need to officially tell you they approve or anything like that before you do the proposal presentation, but when they approve your thesis proposal and admission to candidacy, they are approving your document.</description>
+    </item>
+    <item>
+      <title>Get Early Feedback On Your Thesis!</title>
+      <link>https://andrew-silva.github.io/posts/get-early-feedback-on-your-thesis/</link>
+      <pubDate>Fri, 16 Sep 2022 13:34:20 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/get-early-feedback-on-your-thesis/</guid>
+      <description>This is an optional extra in your thesis proposal and defense process, but I cannot recommend it enough!
+Why Get Early Feedback? Once you’ve written your document and nearly finished preparing your presentation, I strongly recommend bringing it to each of your committee members individually and getting their feedback. This has several benefits, it gives you nice one-on-one facetime with your committee members and gives you a chance to get to know them a bit better, it helps them to see your story early and therefore sets their expectations for your proposal, and it gives them a chance to give you honest feedback in private.</description>
+    </item>
+    <item>
+      <title>Delivering Your Proposal Presentation</title>
+      <link>https://andrew-silva.github.io/posts/delivering-your-proposal-presentation/</link>
+      <pubDate>Fri, 16 Sep 2022 13:33:28 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/delivering-your-proposal-presentation/</guid>
+      <description>This post assumes you have already prepared your presentation, written your thesis proposal, and ideally gotten feedback on your proposal!
+Once you’ve gotten this far, you’re nearly done! By now, you have written your complete document and your committee has had a chance to read it, you’ve prepared your presentation and script (hopefully with feedback from your committee members), and you have scheduled this date when all of your committee members can be present at once!</description>
+    </item>
+    <item>
+      <title>TL;DR: Artificial intelligence for aging and longevity research: Recent advances and perspective</title>
+      <link>https://andrew-silva.github.io/posts/tldr-artificial-intelligence-for-aging-and-longevity-research-recent-advances-and-perspective/</link>
+      <pubDate>Fri, 08 Jan 2021 03:04:11 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/tldr-artificial-intelligence-for-aging-and-longevity-research-recent-advances-and-perspective/</guid>
+      <description>I recently read through a survey of AI and aging/longevity research, and there were some exciting tie-ins to my research to takeaway, plus some generally cool stuff going on. The survey is titled Artificial intelligence for aging and longevity research: Recent advances and perspectives. The paper is geared towards a medical crowd rather than an ML one, and the main idea is to present the state of machine learning within the aging and longevity research space.</description>
+    </item>
+    <item>
       <title>Reading: Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model (MuZero Paper)</title>
       <link>https://andrew-silva.github.io/posts/muzero/</link>
       <pubDate>Wed, 23 Dec 2020 21:36:52 -0400</pubDate>
@@ -49,11 +117,49 @@ This sparsity means that they can take thousands or millions of dense feature ac
 What is the paper trying to do? Following the incredible successes of AlphaGo and AlphaZero, this work introduces MuZero, which permits the extension of AlphaZero-like learning and performance to a new set of RL domains.</description>
     </item>
     <item>
+      <title>Learning Differentiable Decision Trees for Reinforcement Learning: Q-Learning or Policy Gradient?</title>
+      <link>https://andrew-silva.github.io/posts/learning-differentiable-decision-trees-for-reinforcement-learning/</link>
+      <pubDate>Mon, 21 Dec 2020 03:58:16 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/learning-differentiable-decision-trees-for-reinforcement-learning/</guid>
+      <description>In conjunction with an earlier post on the use of Differentiable Decision Trees (DDTs) for interpretable reinforcement learning, this post will cover my recent AISTATS paper Optimization Methods for Interpretable Differentiable Decision Trees in Reinforcement Learning. In my earlier post, I laid out some reasons that we might want to use DDTs for reinforcement learning: they afford discretization for interpretable plans, they allow for warm-starting and human initialization, and they are surprisingly robust to hyperparameter selection (things like learning rates, number of layers, and so on).</description>
+    </item>
+    <item>
       <title>Interactive Intelligence</title>
       <link>https://andrew-silva.github.io/posts/interactive_intelligence/</link>
       <pubDate>Sun, 20 Dec 2020 21:36:45 -0400</pubDate>
       <guid>https://andrew-silva.github.io/posts/interactive_intelligence/</guid>
       <description>Google DeepMind recently put a new 96 page paper on arXiv titled Imitating Interactive Intelligence. The paper actually has a few really cool things to contribute. Unfortunately, owing to its very intimidating length, it’s not easy to actually gain these insights. DeepMind have actually put up their own blog post on the work, but I didn’t really get a sense for what happened just by reading that post. They also released three videos showing what happened in the project (overview, training timelapse, and a demo).</description>
+    </item>
+    <item>
+      <title>Interpretable Machine Learning: Neural Networks and Differentiable Decision Trees</title>
+      <link>https://andrew-silva.github.io/posts/interpretable-machine-learning/</link>
+      <pubDate>Tue, 10 Mar 2020 20:35:58 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/interpretable-machine-learning/</guid>
+      <description>A brief foreword: This entire post is a high-level summary of the motivations and contributions of my paper which was recently accepted to AISTATS 2020! For some math on why Q-Learning is less stable than policy gradients for differentiable decision trees, a full list of my references/sources, and more thorough comparisons, etc. check out the full paper: Optimization Methods for Interpretable Differentiable Decision Trees in Reinforcement Learning.
+Why aren’t normal neural networks interpretable?</description>
+    </item>
+    <item>
+      <title>Interpretable Machine Learning: What is Interpretability?</title>
+      <link>https://andrew-silva.github.io/posts/what-is-interpretability-in-machine-learning/</link>
+      <pubDate>Mon, 20 Jan 2020 22:05:05 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/what-is-interpretability-in-machine-learning/</guid>
+      <description>In my last post, I wrote a bit about why we want interpretability and what that means to end-users. In this post, I’ll explore a bit about what that means to practitioners and researchers, and two main ways to accomplish the goal of understanding our machine learning systems.
+What does interpretability mean? It turns out that rigorously defining “interpretability” is somewhat challenging. People often have one of two key areas in mind when they talk about interpretability in machine learning.</description>
+    </item>
+    <item>
+      <title>Interpretable Machine Learning: Why?</title>
+      <link>https://andrew-silva.github.io/posts/why-should-ml-be-interpretable/</link>
+      <pubDate>Wed, 08 Jan 2020 16:01:59 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/why-should-ml-be-interpretable/</guid>
+      <description>Why should machine learning be interpretable? Machine learning is being used everywhere, and intelligent systems are in just about every corner of our daily lives. Unfortunately, even in the best case, machine learning is only as good as the data that goes in and the data that goes in has a tendency to be biased, unfair, or skewed to the wrong goal. When we ask how a system has arrived at an answer, we don’t want to be left with some hand-wavy black-box answer.</description>
+    </item>
+    <item>
+      <title>Winning BrainHack ATL 2019</title>
+      <link>https://andrew-silva.github.io/posts/winning-brainhack-atl-2019/</link>
+      <pubDate>Thu, 12 Dec 2019 00:49:34 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/winning-brainhack-atl-2019/</guid>
+      <description>BrainHack ATL A few weeks ago, my advisor suggested that some labmates and I enter in a hackathon downtown called “BrainHack”. As I’m considering getting more into machine learning with applications to medicine, a hackathon which professes its purpose is:
+Bringing together students, researchers, non-academic industry professionals, engineers, data scientists, and neuroscientists from a variety of fields and expertise to explore the multiple applications of neuroimaging tools from a cross-disciplinary perspective.</description>
     </item>
   </channel>
 </rss>

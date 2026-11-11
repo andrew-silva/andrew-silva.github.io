@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>supervised learning on Andrew Silva</title>
+    <link>https://andrew-silva.github.io/tags/supervised-learning/</link>
+    <description>Recent content in supervised learning on Andrew Silva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Dec 2019 00:49:34 +0000</lastBuildDate>
+    <atom:link href="https://andrew-silva.github.io/tags/supervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Winning BrainHack ATL 2019</title>
+      <link>https://andrew-silva.github.io/posts/winning-brainhack-atl-2019/</link>
+      <pubDate>Thu, 12 Dec 2019 00:49:34 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/winning-brainhack-atl-2019/</guid>
+      <description>BrainHack ATL A few weeks ago, my advisor suggested that some labmates and I enter in a hackathon downtown called “BrainHack”. As I’m considering getting more into machine learning with applications to medicine, a hackathon which professes its purpose is:
+Bringing together students, researchers, non-academic industry professionals, engineers, data scientists, and neuroscientists from a variety of fields and expertise to explore the multiple applications of neuroimaging tools from a cross-disciplinary perspective.</description>
+    </item>
+  </channel>
+</rss>

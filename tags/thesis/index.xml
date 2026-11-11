@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thesis on Andrew Silva</title>
+    <link>https://andrew-silva.github.io/tags/thesis/</link>
+    <description>Recent content in Thesis on Andrew Silva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Sep 2022 14:26:28 +0000</lastBuildDate>
+    <atom:link href="https://andrew-silva.github.io/tags/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding Your Thesis Statement &amp; Story</title>
+      <link>https://andrew-silva.github.io/posts/finding-your-thesis-statement/</link>
+      <pubDate>Fri, 16 Sep 2022 14:26:28 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/finding-your-thesis-statement/</guid>
+      <description>After a few years in a PhD program, working on whatever research project your advisor had funding for, or whatever project seemed interesting or fun at the time, it can be daunting to find a unified story or thesis statement that accurately, concisely, and interestingly summarizes your work. In this post, I will describe how I was able to find a cohesive story that unified the disparate strands of work I’d completed, and helped me focus my thesis proposal into an interesting final project.</description>
+    </item>
+    <item>
+      <title>Preparing Your Thesis Proposal Presentation</title>
+      <link>https://andrew-silva.github.io/posts/preparing-your-thesis-proposal-presentation/</link>
+      <pubDate>Fri, 16 Sep 2022 13:55:33 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/preparing-your-thesis-proposal-presentation/</guid>
+      <description>Your oral defense (your thesis proposal presentation) is where you get to convince your committee (and a wider, public audience) that you deserve a PhD. You need to show that you’ve done cool work, you’re a smart and capable researcher, and you have thought of an interesting final project that will bring home a strong body of work. No pressure!
+In general, a thesis proposal presentation will look something like this:</description>
+    </item>
+    <item>
+      <title>The Thesis Proposal Process at Georgia Tech</title>
+      <link>https://andrew-silva.github.io/posts/the-thesis-proposal-process-at-georgia-tech/</link>
+      <pubDate>Fri, 16 Sep 2022 13:35:19 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/the-thesis-proposal-process-at-georgia-tech/</guid>
+      <description>I recently completed my thesis proposal at Georgia Tech, and the process included several questions that I did not feel were adequately documented anywhere. With this post, I’m hoping to provide a straightforward timeline/guide for the thesis proposal process at Tech for future students. Admittedly, this post ended up much longer than I expected it to be, so maybe treat it more as a reference material and come back to each section as you get to that stage.</description>
+    </item>
+    <item>
+      <title>Choosing Your Thesis Committee</title>
+      <link>https://andrew-silva.github.io/posts/choosing-your-thesis-committee/</link>
+      <pubDate>Fri, 16 Sep 2022 13:35:01 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/choosing-your-thesis-committee/</guid>
+      <description>Your committee ultimately decides whether or not you pass your proposal and your defense, so you want to choose them carefully!
+The rules from the CS Handbook state that:
+“Your advisor is the chair… Your committee should be formed of at least five people. At least one faculty member must be from outside CoC (from another unit at Tech or an outsider, and should have a Ph.D.), but the majority must have some CoC faculty appointment.</description>
+    </item>
+    <item>
+      <title>Writing Your Proposal Document</title>
+      <link>https://andrew-silva.github.io/posts/writing-your-proposal-document/</link>
+      <pubDate>Fri, 16 Sep 2022 13:34:41 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/writing-your-proposal-document/</guid>
+      <description>When to Write Your Proposal Document I suggest starting as early as possible! As soon as you know you are planning to propose soon, start the document. It will take a couple of weeks to finish, maybe more, and your committee should ideally have ample time to read and review it before your proposal. As indicated above, I gave my committee one month to review my document before my proposal. They do not need to officially tell you they approve or anything like that before you do the proposal presentation, but when they approve your thesis proposal and admission to candidacy, they are approving your document.</description>
+    </item>
+    <item>
+      <title>Get Early Feedback On Your Thesis!</title>
+      <link>https://andrew-silva.github.io/posts/get-early-feedback-on-your-thesis/</link>
+      <pubDate>Fri, 16 Sep 2022 13:34:20 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/get-early-feedback-on-your-thesis/</guid>
+      <description>This is an optional extra in your thesis proposal and defense process, but I cannot recommend it enough!
+Why Get Early Feedback? Once you’ve written your document and nearly finished preparing your presentation, I strongly recommend bringing it to each of your committee members individually and getting their feedback. This has several benefits, it gives you nice one-on-one facetime with your committee members and gives you a chance to get to know them a bit better, it helps them to see your story early and therefore sets their expectations for your proposal, and it gives them a chance to give you honest feedback in private.</description>
+    </item>
+    <item>
+      <title>Delivering Your Proposal Presentation</title>
+      <link>https://andrew-silva.github.io/posts/delivering-your-proposal-presentation/</link>
+      <pubDate>Fri, 16 Sep 2022 13:33:28 +0000</pubDate>
+      <guid>https://andrew-silva.github.io/posts/delivering-your-proposal-presentation/</guid>
+      <description>This post assumes you have already prepared your presentation, written your thesis proposal, and ideally gotten feedback on your proposal!
+Once you’ve gotten this far, you’re nearly done! By now, you have written your complete document and your committee has had a chance to read it, you’ve prepared your presentation and script (hopefully with feedback from your committee members), and you have scheduled this date when all of your committee members can be present at once!</description>
+    </item>
+  </channel>
+</rss>
